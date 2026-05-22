@@ -1,3 +1,6 @@
+<img width="960" height="1280" alt="IMG_2780 Large" src="https://github.com/user-attachments/assets/579e990c-6697-4552-b84e-ccbfc5b7a33f" />
+
+
 
 # OpenXenium CPLD
  VERSION 2.0CS Fixed by Sick-Git
@@ -20,3 +23,9 @@ This allows for custom boot screens and diagnostics to be displayed on the OLED 
 Build and fit within Xilinx ISE 14.7 and then use iMpact to jtag your built .jed file to the CPLD.
 
 Greets - Sick-Git.
+
+<img width="960" height="1280" alt="IMG_2774 Large" src="https://github.com/user-attachments/assets/28c8d4d0-c8f8-4ce8-b85b-277afb0ca06f" />
+
+<img width="960" height="1280" alt="IMG_2790 Large" src="https://github.com/user-attachments/assets/d1f6dde4-15a1-47da-b281-4fb7a2586c54" />
+
+<img width="960" height="1280" alt="IMG_2773 Large" src="https://github.com/user-attachments/assets/0d731725-cf71-4ce3-a693-2cbe253bb762" />
